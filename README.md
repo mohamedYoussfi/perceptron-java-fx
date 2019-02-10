@@ -1,2 +1,2 @@
 "# perceptron-java-fx" 
-<img src="images/perceptron-app.png">
+<img src="images/perceptrong-app.png">
